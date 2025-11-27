@@ -18,7 +18,7 @@ Toda la documentación, recursos y evidencias se gestionan exclusivamente a trav
 
 ---
 
-## 🎯 Objetivos del proyecto
+## Objetivos del proyecto
 1. Mostrar el texto legal de la Política de Protección de Datos al cliente.  
 2. Permitir la firma manuscrita en una pantalla táctil (tablet).  
 3. Asociar la firma a un documento final (PDF o formulario digital).  
