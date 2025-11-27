@@ -11,7 +11,7 @@ Toda la documentación, recursos y evidencias se gestionan exclusivamente a trav
 
 ---
 
-## 🧑‍🤝‍🧑 Equipo de trabajo
+## Equipo de trabajo
 - **Ani Aleksanyan**  
 - **Pau Estañ Ortuño**  
 - **Thiago Gil Chávez**
@@ -27,5 +27,5 @@ Toda la documentación, recursos y evidencias se gestionan exclusivamente a trav
 
 ---
 
-## 🗂️ Estructura del repositorio
+## Estructura del repositorio
 
