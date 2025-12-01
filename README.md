@@ -29,3 +29,16 @@ Toda la documentación, recursos y evidencias se gestionan exclusivamente a trav
 
 ## Estructura del repositorio
 
+(Puede cambiar) 
+
+1. Introducción.
+2. Desarrollo (Los temas principales)
+3. Conclusión
+
+---
+
+## Desarrollo (el título puede cambiar)
+
+---
+
+## Conclusión (puede cambiar también)
