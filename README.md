@@ -50,3 +50,5 @@ La política de protección de datos consiste en un documento que te explica com
 ---
 
 ## Conclusión 
+
+El objetivo de firmar la protección de datos es garantizar la claridad y permitir que las personas controlen su información personal.
