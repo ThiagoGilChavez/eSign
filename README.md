@@ -31,14 +31,22 @@ Toda la documentación, recursos y evidencias se gestionan exclusivamente a trav
 
 (Puede cambiar) 
 
-1. Introducción.
-2. Desarrollo (Los temas principales)
+1. Introducción del tema
+2. Desarrollo
 3. Conclusión
 
 ---
 
-## Desarrollo (el título puede cambiar)
+## Introducción
 
 ---
 
-## Conclusión (puede cambiar también)
+La política de protección de datos consiste en un documento que te explica como una organización recopila, trata y protege la información personal de las personas, asegurando así sus derechos fundamentales y la privacidad.
+
+---
+
+## Desarrollo 
+
+---
+
+## Conclusión 
