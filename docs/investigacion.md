@@ -20,9 +20,9 @@ Importación de documentos desde archivos o fotos.
 
 Precio
 
-✔ Gratis para funciones básicas.
+- [x] Gratis para funciones básicas.
 
-❌ Funciones avanzadas requieren suscripción Adobe Acrobat Pro.
+- [ ] Funciones avanzadas requieren suscripción Adobe Acrobat Pro.
 
 Compatibilidad
 
